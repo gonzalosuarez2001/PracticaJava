@@ -84,4 +84,9 @@ public class SalaDeCine {
 		}
 		return hayEspacio;
 	}
+	
+	public int suma() {
+		
+		return 5 + 5;
+	}
 }

@@ -89,4 +89,9 @@ public class SalaDeCine {
 		
 		return 5 - 5;
 	}
+	
+public int multi() {
+		
+		return 5 * 5;
+	}
 }

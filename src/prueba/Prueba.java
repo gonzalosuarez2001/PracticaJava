@@ -22,7 +22,7 @@ public class Prueba {
 		//System.out.println(cine.ocuparButaca(3, 2));
 		//System.out.println(cine.ocuparButaca(3, 3));
 		System.out.println(cine.hayEspacioPara(3));
-
+		//agrego linea
 	}
 
 }

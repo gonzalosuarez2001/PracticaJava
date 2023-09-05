@@ -24,6 +24,7 @@ public class Prueba {
 		System.out.println(cine.hayEspacioPara(3));
 		//agrego linea
 		//agreo linea en nueva Rama
+		//agreo linea en nueva Rama2
 	}
 
 }

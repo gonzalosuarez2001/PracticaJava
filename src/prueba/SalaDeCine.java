@@ -85,8 +85,8 @@ public class SalaDeCine {
 		return hayEspacio;
 	}
 	
-	public int suma() {
+	public int resta() {
 		
-		return 5 + 5;
+		return 5 - 5;
 	}
 }

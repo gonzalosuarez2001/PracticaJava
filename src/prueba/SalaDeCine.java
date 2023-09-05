@@ -90,8 +90,14 @@ public class SalaDeCine {
 		return 5 - 5;
 	}
 	
+<<<<<<< HEAD
 public int div() {
 		
 		return 5 / 5;
+=======
+public int multi() {
+		
+		return 5 * 5;
+>>>>>>> rama4
 	}
 }
